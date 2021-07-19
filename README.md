@@ -1,6 +1,7 @@
 # D2 MultiAccount Manager (D2MAM)
 
-D2MAM is a C# program for manage dofus2 accounts.
+D2MAM is a C# program for manage dofus2 accounts that adapts to the initiative of your characters.
+The application listens for packets that pass between the client and the server.
 
 ## Features
 * Click 5 Mouse Button for switch to next account window
