@@ -24,3 +24,4 @@ The application listens for packets that pass between the client and the server.
 * https://github.com/xvolks/Cookie (Part of IO)
 * https://github.com/alexandre10044/AmaknaCore-Sniffer (Part of IO)
 * https://github.com/nexepu/Nex.ProtocolBuilder
+* https://github.com/chmorgan/sharppcap
